@@ -4,7 +4,7 @@ Home labs for Windows Server, Active Directory, DHCP, and other IT skills.
 
 # Intermountain IT Internship Lab Prep
 
-This repository documents my hands-on lab work as part of my preparation for an IT internship at Intermountain Hospital. The labs focus on Windows Server administration, networking, and systems configuration.
+This repository documents my hands-on lab work as part of my preparation for an entry level IT job. The labs focus on Windows Server administration, networking, and systems configuration.
 
 ---
 
