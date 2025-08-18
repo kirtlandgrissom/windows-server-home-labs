@@ -13,6 +13,8 @@ This repository documents my hands-on lab work as part of my preparation for an 
 | Lab # | Title                        | Topics Covered                          |
 |-------|------------------------------|------------------------------------------|
 | 01    | Windows Server Installation  | ISO setup, VirtualBox, initial config    |
+| 02    | Rename Server & Install Active Directory | Server renaming, AD DS role install, domain setup |
+| 03    | 
 
 > More labs will be added as I continue learning.
 
@@ -34,6 +36,8 @@ This repository documents my hands-on lab work as part of my preparation for an 
 ---
 
 ## 🎓 Learning Sources
+Ogden Weber Technical College
+Youtube.com
 
 
 
