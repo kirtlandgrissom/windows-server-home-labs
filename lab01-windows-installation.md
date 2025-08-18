@@ -40,6 +40,5 @@ Install Windows Server 2019 in a virtual environment using VirtualBox.
   
 ---
 
-### 🖼️ Screenshot
+### 🖼️ Screenshot# Lab 01: Windows Server 2019 Installation
 
- 
