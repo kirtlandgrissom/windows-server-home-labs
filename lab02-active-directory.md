@@ -13,18 +13,18 @@
 
 ### 🛠️ Steps Taken
 
-# 1. Renamed the Server:
+#### 1. Renamed the Server:
 - Changed computer name to `Server2016` for more readability
 - Restarted server to apply the name change
 
-# 2. Installed Active Directory Domain Services:
+#### 2. Installed Active Directory Domain Services:
 
 - Opened Server Manager
 - Clicked "Add roles and features"
 - Selected Active Directory Domain Services (AD DS)
 - Completed installation
 
- # 3. Promoted Server to a Domain
+ #### 3. Promoted Server to a Domain
 
  - After AD DS was installed, clicked "Promote this server to a domain controller" 
  - Selected "Add a new forest"
