@@ -3,13 +3,13 @@
 **Date**: August 16, 2025
 
 ### 🎯 Objective
-Install Windows Server 2019 in a virtual environment using VirtualBox.
+Install Windows Server 2016 in a virtual environment using VirtualBox.
 
 ---
 
 ### 🛠️ Steps Taken
 
-1. Downloaded the Windows Server 2019 ISO from Microsoft's Evaluation Center.
+1. Downloaded the Windows Server 2016 ISO from Microsoft's Evaluation Center.
 2. Created a new virtual machine:
    - 8 GB RAM  
    - 50 GB disk  
