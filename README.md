@@ -21,9 +21,9 @@ This repository documents my hands-on lab work as part of my preparation for an 
 
 ## 🧰 Tools Used
 
-- Windows Server 2019 ISO
+- Windows Server 2016 ISO
 - VirtualBox
-- PowerShell
+- Cmd
 - Server Manager
 - YouTube Tutorials
 
@@ -35,7 +35,9 @@ This repository documents my hands-on lab work as part of my preparation for an 
 ---
 
 ## 🎓 Learning Sources
+
 Ogden Weber Technical College
+
 Youtube.com
 
 
