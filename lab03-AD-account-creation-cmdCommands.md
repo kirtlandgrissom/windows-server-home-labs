@@ -28,15 +28,39 @@
 
 ### 🖼️ Screenshot  
 
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+##Add user to AD 
+![regular settings](./screenshots/lab03/regular-settings.png)
 
+##Adding user with advance features
+![](./screenshots/lab03/advance-features.png)
+
+
+##Copying user in AD
+![](./screenshots/lab03/copyuser1.png)
+![](./screenshots/lab03/copyuser2.png)
+![Comparing help desk user copy to admin user](./screenshots/lab03/Comparison.png)
+
+##Enabling recycle bi
+![Enable recycle bin](./screenshots/lab03/Enable-recycle.png)
+
+##setting up static IP address
+![static set up](./screenshots/lab03/Static-IP1.png)
+![static set up](./screenshots/lab03/Static-IP2.png)
+![static set up](./screenshots/lab03/Static-IP3.png)
+
+###CMD commands
+
+##Ipconfig all
+![Ipconfig all](./screenshots/lab03/Ipconfig-all.png)
+
+##Ipconfig
+![Ipconfig](./screenshots/lab03/Ipconfig.png)
+
+##net use
+![net use](./screenshots/lab03/net-use.png)
+
+#net user
+![net user](./screenshots/lab03/net-user.png)
 
 ---
 
