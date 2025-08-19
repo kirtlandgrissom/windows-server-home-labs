@@ -33,7 +33,14 @@
  - Restarted server after promotion
 
 ### 🖼️ Screenshot
-[]() 
+
+Server renamed successfully:
+![Properties](./screenshots/lab02/Lab2-2.png) ![Original server name](./screenshots/lab02/Lab2-3.png) ![New server name](./screenshots/lab02/Lab2-4.png) 
+
+AD DS promotion to domain controller:
+![Add roles and Features](./screenshots/lab02/Lab2-5.png) ![installation type](./screenshots/lab02/Lab2/Lab2-6.png) 
+![Adding AD DS](./screenshots/lab02/Lab2/Lab2-7.png) ![Install AD DS](./screenshots/lab02/Lab2/Lab2-8.png)
+![successful install](./screenshots/lab02/Lab2/Lab2-9.png)
 
 ### 🧠 What I Learned
 
