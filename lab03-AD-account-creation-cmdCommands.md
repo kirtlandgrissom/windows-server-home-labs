@@ -40,7 +40,7 @@
 ![](./screenshots/lab03/copyuser2.png)
 ![Comparing help desk user copy to admin user](./screenshots/lab03/Comparison.png)
 
-## Enabling recycle bi
+## Enabling recycle bin
 ![Enable recycle bin](./screenshots/lab03/Enable-recycle.png)
 
 ## setting up static IP address
