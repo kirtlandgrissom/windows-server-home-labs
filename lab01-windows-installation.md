@@ -41,5 +41,5 @@ Install Windows Server 2016 in a virtual environment using VirtualBox.
 ---
 
 ### 🖼️ Screenshot# Lab 01: Windows Server 2019 Installation
-![VM Details](./screenshots/lab1-1.png) ![Booted VM](./screenshots/lab1-2.png)
+![VM Details](./screenshots/lab01/lab1-1.png) ![Booted VM](./screenshots/lab01/lab1-2.png)
 
