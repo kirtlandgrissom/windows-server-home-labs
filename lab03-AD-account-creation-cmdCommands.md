@@ -51,15 +51,19 @@
 ###CMD commands
 
 ##Ipconfig all
+
 ![Ipconfig all](./screenshots/lab03/Ipconfig-all.png)
 
 ##Ipconfig
+
 ![Ipconfig](./screenshots/lab03/Ipconfig.png)
 
 ##net use
+
 ![net use](./screenshots/lab03/net-use.png)
 
-#net user
+##net user
+
 ![net user](./screenshots/lab03/net-user.png)
 
 ---
