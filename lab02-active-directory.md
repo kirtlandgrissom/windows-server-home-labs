@@ -39,9 +39,9 @@ Server renamed successfully:
 
 AD DS promotion to domain controller:
 ![Add roles and Features](./screenshots/lab02/lab2-5.png) 
-![installation type](./screenshots/lab02/ab2/Lab2-6.png) 
-![Adding AD DS](./screenshots/lab02/lab02/Lab2-7.png) 
-![Install AD DS](./screenshots/lab02/lab02/Lab2-8.png)
+![installation type](./screenshots/lab02/Lab2-6.png) 
+![Adding AD DS](./screenshots/lab02/Lab2-7.png) 
+![Install AD DS](./screenshots/lab02/Lab2-8.png)
 ![successful install](./screenshots/lab02/Lab2-9.png)
 
 ### 🧠 What I Learned
