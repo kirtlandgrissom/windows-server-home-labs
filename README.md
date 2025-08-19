@@ -2,7 +2,6 @@
 
 Home labs for Windows Server, Active Directory, DHCP, and other IT skills.
 
-# Intermountain IT Internship Lab Prep
 
 This repository documents my hands-on lab work as part of my preparation for an entry level IT job. The labs focus on Windows Server administration, networking, and systems configuration.
 
@@ -14,7 +13,7 @@ This repository documents my hands-on lab work as part of my preparation for an 
 |-------|------------------------------|------------------------------------------|
 | 01    | Windows Server Installation  | ISO setup, VirtualBox, initial config    |
 | 02    | Rename Server & Install Active Directory | Server renaming, AD DS role install, domain setup |
-| 03    | 
+| 03    | Active Directory Account Creation, Cmd Commands | Adding and copying users in AD, common Cmd commands |
 
 > More labs will be added as I continue learning.
 
